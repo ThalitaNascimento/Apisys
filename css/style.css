@@ -1,0 +1,19 @@
+.iconpict{
+	float: left;
+	margin-left: -80px;
+}
+#intro{
+	margin-top: 90px;
+}
+
+.card {
+  background-color: transparent;
+  border: none; }
+
+.card-img {
+  text-align: center;
+  flex-shrink: 0; }
+
+.item1-slick1{
+	background-image: url(../images/slide1-01.jpg);
+}
